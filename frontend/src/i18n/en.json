@@ -1,0 +1,15 @@
+{
+  "app_name": "AgriSetu",
+  "dashboard": "Dashboard",
+  "create_listing": "Create Listing",
+  "price_trend": "Price Trend",
+  "browse_listings": "Browse Listings",
+  "make_offer": "Make Offer",
+  "order_history": "Order History",
+  "crop": "Crop",
+  "quantity": "Quantity",
+  "market": "Market",
+  "modal_price": "Modal Price",
+  "submit": "Submit",
+  "speak_now": "Speak now"
+}
